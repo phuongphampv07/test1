@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(199, 221, 199);
+}
+.newspaper {
+    column-count: 3;
+    column-gap: 30px;
+    column-rule: 1px solid lightblue;
+
+  }
+  
+  h2 {
+    column-span: all;
+    margin-bottom: 40px;
+  }
+  button a{
+    text-decoration: none;
+  }

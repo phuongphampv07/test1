@@ -1,0 +1,32 @@
+*{margin: 0px;padding: 0px;}
+.body{
+    background-color: rgb(187, 238, 187);
+}
+.photo{
+    width: 800px;
+    height: 400px;
+    overflow:hidden
+}
+.photo img{
+    width: 900px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 3px;
+}
+.content {
+    position: absolute;
+    top: 200px;
+    left:10px;
+}
+.content p{ 
+    font-size: 15px;
+    color: rgb(250, 249, 245);
+}
+.content section{ 
+    font-size: 25px;
+    color: rgb(91, 16, 231);
+}
+button{margin: 10px;}
+button a{
+    text-decoration: none;
+  }
